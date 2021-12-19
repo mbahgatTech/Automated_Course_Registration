@@ -7,7 +7,7 @@ import time
 
 # take input of account information and login if user didn't login in window already
 def takeAccInfo(browser): 
-    time.sleep(2)
+    time.sleep(4)
     print("Logging information needed:")
     userName = input("Enter your UofG username: ")
     password = input("Enter password: ")
