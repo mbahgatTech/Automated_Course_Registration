@@ -1,8 +1,8 @@
 # Automated Course Registration Program
  A script automating the registration of planned courses for the next semester.
  ## Download & Launch
- - Follow this [Download Link](https://uoguelphca-my.sharepoint.com/:f:/g/personal/mbahgat_uoguelph_ca/EtxLFg1bi1pOokQjob8nkdgBsvJ6b7pKoGHzMr6LsZ-7bw?e=WaYNFN) 
- - Extract the files in the "course.zip" folder and launch the course.exe file
+ - Follow this [Download Link](https://drive.google.com/file/d/15dLBNCoVhMGgxFDAykUaMkQfyBiSwM7D/view?usp=sharing).
+ - Launch "course.exe".
  ## How-to-use
  - Plan all your courses for the upcoming semester before launching the program. 
  - Launch the program and enter your university login information in the browser's login page or in the console window. 
