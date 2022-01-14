@@ -1,7 +1,7 @@
 # Automated Course Registration Program
  A script automating the registration of planned courses for the next semester.
  ## Download & Launch
- - <a href="course-setup.exe" download>Click here to download</a> the installer.
+ - [Click here to download](https://github.com/mbahgatTech/Automated_Course_Registration/raw/main/course-setup.exe) the installer.
  - Launch "course-setup.exe" and respond to the prompts.
  - When installation is over, launch "course.exe" from your installation directory (Default: ProgramFiles(x86)/Course_Registration).
  ## How-to-use
